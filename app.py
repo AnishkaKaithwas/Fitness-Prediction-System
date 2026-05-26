@@ -1,5 +1,3 @@
-# Fully Working Streamlit Dashboard (Error-Free)
-
 
 import streamlit as st
 import pandas as pd
